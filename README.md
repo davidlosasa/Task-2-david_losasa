@@ -241,8 +241,7 @@ Week 2/
 ## 👨‍💼 Author
 
 **David Losasa**
-Data Analyst | Data Science & Financial Analytics
-2026
+Data Analyst 2026
 **Intern - Week 2 Project**
 - Data Analysis Project
 - e-Commerce Transaction Analysis
