@@ -247,10 +247,6 @@ Data Analyst 2026
 - e-Commerce Transaction Analysis
 - Date: 2026
 
-## 📝 License
-
-This analysis is provided as-is for educational and business purposes.
-
 ## 🔗 Related Resources
 
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
